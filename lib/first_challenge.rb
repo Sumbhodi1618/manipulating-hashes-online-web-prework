@@ -18,6 +18,11 @@
    contacts.each do |person, data|
      data.each do |attribute, value|
        value.each do |flavor|
+          puts "#{flavor}"
+      end
+    end
+  end
+end
 
         end
      end
