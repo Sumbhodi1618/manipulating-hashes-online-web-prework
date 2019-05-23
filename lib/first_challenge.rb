@@ -15,7 +15,7 @@
   }
   #your code here
   
-        .each do |key, value|
+   contacts.each do |person, data|
 
         end
      end
