@@ -15,7 +15,7 @@
   }
   #your code here
   
-    "Freddy Mercury".each do |key, value|
+        .each do |key, value|
 
         end
      end
