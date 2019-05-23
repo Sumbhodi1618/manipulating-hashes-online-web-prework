@@ -17,6 +17,7 @@
   
    contacts.each do |person, data|
      data.each do |attribute, value|
+       value.each do |flavor|
 
         end
      end
